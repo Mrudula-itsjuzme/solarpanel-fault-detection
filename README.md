@@ -1,12 +1,35 @@
-# SolarpanelFaultDetection
-
-Project repository for SolarpanelFaultDetection.
+# solarpanel-fault-detection
 
 ## Overview
-This project is maintained in this repository.
+Part of AI research portfolio domain: applied-ml.
 
-## Status
-Active repository under Mrudula-itsjuzme.
+## Problem Statement
+Define a reproducible research objective.
 
-## Notes
-README was auto-created to improve repository documentation baseline.
+## System Architecture
+See docs/architecture.md.
+
+## Methodology
+See docs/methodology.md.
+
+## Implementation
+- src/
+- experiments/
+- notebooks/
+- tests/
+- datasets/
+- docs/
+- scripts/
+
+## Results
+See docs/results.md.
+
+## Usage Instructions
+1. Install dependencies.
+2. Run scripts.
+3. Execute experiments.
+
+## Future Work
+- Improve reproducibility
+- Expand evaluation
+- Increase test coverage
