@@ -6,6 +6,19 @@ The goal is to support faster inspection of solar installations by identifying v
 
 ---
 
+## Project links and evidence
+
+| Item | Link / Note |
+|---|---|
+| Repository | https://github.com/Mrudula-itsjuzme/solarpanel-fault-detection |
+| Paper / reference | No paper attached yet; project is an applied computer-vision prototype |
+| Demo video | Not uploaded yet |
+| Deployment | Not applicable yet; training/inference workflow is local |
+| Dataset note | Solar-panel image dataset should be configured locally; dataset provenance and class labels need to be documented in a future update |
+| Result screenshots / plots | Add confusion matrix, sample predictions, and training curves under `docs/`, `experiments/`, or `notebooks/` when finalized |
+
+---
+
 ## Problem statement
 
 Solar panels lose efficiency when faults go unnoticed. Manual inspection is slow, inconsistent, and difficult to scale across large solar farms.
